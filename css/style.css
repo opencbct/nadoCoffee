@@ -45,6 +45,11 @@ section{
     padding:2rem 7%;
 }
 
+.content span{
+    color:var(--main-color);
+    text-transform: uppercase;
+}
+
 .heading{
     text-align: center;
     color:#fff;
