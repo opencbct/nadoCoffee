@@ -91,9 +91,7 @@ section{
     z-index: 1000;
 }
 
-.header .logo img{
-    height: 6rem;
-}
+
 
 .header .navbar a{
     margin:0 1rem;
